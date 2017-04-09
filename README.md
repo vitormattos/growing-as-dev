@@ -2,7 +2,7 @@
 
 This project was idealized to help new web professionals to plan how to grow professionally followed by higher level mentor.
 
-##Step one: be a Trainee
+## Step one: be a Trainee
 * Have a mentor
 * Create tasks to follow on a task manager (I suggest Trello) with 3 columns: todo, doing done.
 * Share the task list with your mentor
@@ -13,7 +13,7 @@ This project was idealized to help new web professionals to plan how to grow pro
 * Enjoy a active developer comunity and participate in some event
 * Write a post review into your blog about the conmunity event you went to
 
-##Step two: be a Padawan
+## Step two: be a Padawan
 * Implement a form with fields: name, subject and description on section contact of your blog
 * Create a web application on Heroku to receive posts from your contact form and forward this data to your email.
 * Implement validation to submitted data of your web application
@@ -21,7 +21,7 @@ This project was idealized to help new web professionals to plan how to grow pro
 * Change the web application to save the posted data into a database
 * Implement a page showing the posts of contact form
 
-##Step three: be a full developer
+## Step three: be a full developer
 * Implement authentication page to view the list of posts
 * Participate at least one developer community event per month
 * Write review of all events into your blog and share the link on  social networks
