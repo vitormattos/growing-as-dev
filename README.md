@@ -46,3 +46,4 @@ This project was idealized to help new web professionals to plan how to grow pro
 * Put badges with status of continus integration of your blog on README.md file of repository
 * Write test to core of PHP
 * Help to translate the PHP manual
+
