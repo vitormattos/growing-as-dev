@@ -6,7 +6,7 @@ This project was idealized to help new web professionals to plan how to grow pro
 * Have a mentor
 * Create tasks to follow on a task manager (Trello or Nextcloud Deck) with 3 columns: to do, doing done.
 * Share the task list with your mentor
-* Create a personal blog on GitHub pages or dev.to containing only text describing step by step of your experience to create your personal GitHub pages
+* Create a personal blog on GitHub pages or [dev.to](https://dev.to) containing only text describing step by step of your experience to create your personal GitHub pages
 * Put link of your LinkedIn and  your GitHub profile on your personal blog
 * Put your photo and your mini-bio on your blog
 * Implement a contact page containing your email
